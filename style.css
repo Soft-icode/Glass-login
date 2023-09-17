@@ -47,6 +47,8 @@ input[placeholder="confirm Password"]{
     margin-bottom: 18px;
     color: white;
 }
+input:: placeholder{
+    color: white}
 button{
     text-align: center ;
     cursor:context-menu;
